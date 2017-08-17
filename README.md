@@ -1,4 +1,5 @@
-A CNN to classify images traied on 
+A CNN to classify images traied on CIFAR-10 dataset.
+
 
 ![Optional Text](../master/image.png)
 
